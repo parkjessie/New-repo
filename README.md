@@ -14,6 +14,7 @@ To display multiple python functions and build algorithm based on personal inter
 #### Create Task (Week 0)
 * Created python menu options which include animation submenu, matrix, and swap
 * Submenu includes the boat animation and a person animation
+* Connecting code to replit and successfully running it on the webstie
 
 
 
