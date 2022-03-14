@@ -1,7 +1,7 @@
 # [New-repo](https://github.com/parkjessie/New-repo)
 ### [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
 ### Project Purpose
-Description of our project and its purpose
+To display multiple python functions and build algorithm based on personal interests
 ***
 ### Contributors
 
@@ -11,7 +11,9 @@ Description of our project and its purpose
 |Jessie|[parkjessie](https://github.com/parkjessie)|[Tasks]()|[Commits]()|[Jessie Journal]()|
 ***
 ### Table of Contents
-N/A
+#### Create Task (Week 0)
+* Created python menu options which include animation submenu, matrix, and swap
+* Submenu includes the boat animation and a person animation
 
 
 
