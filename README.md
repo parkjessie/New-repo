@@ -7,7 +7,6 @@ To display multiple python functions and build algorithm based on personal inter
 
 |Contributor|Github ID/Profile|Assigned Tasks|Commits|Pair Journal|
 |------|---------------------------|-----|--------|-----------------------------------|
-|
 |Jessie|[parkjessie](https://github.com/parkjessie)|[Tasks]()|[Commits]()|[Jessie Journal]()|
 ***
 ### Table of Contents
