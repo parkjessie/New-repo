@@ -3,12 +3,15 @@
 **Accelerometers**
 - Automobile industry rove price down
 - Used for airbag deployment and lateral movement detection
+
 **Multirotor**
 - Benefit - Deliveries, finding lost people, aerial photography is easy
 - Harmful - flying in
+
 **Wii Controller**
 - Benefit - Gets people actively playing video games
 - Harmful - Broken tvs and injuries
+
 **3D Printers**
 - Open-source software for the computer and printer
 - In school and homes
