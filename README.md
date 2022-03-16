@@ -1,3 +1,6 @@
+{% include navigation.html%}
+
+
 # [New-repo](https://github.com/parkjessie/New-repo)
 ### [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
 ### Project Purpose
@@ -9,7 +12,6 @@ To display multiple python functions and build algorithm based on personal inter
 |------|---------------------------|-----|--------|-----------------------------------|
 |Jessie|[parkjessie](https://github.com/parkjessie)|[Tasks]()|[Commits]()|[Jessie Journal]()|
 
-{%include navigation.html%}
 
 ### Table of Contents
 #### Create Task (Week 0)
