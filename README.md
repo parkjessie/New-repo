@@ -1,5 +1,3 @@
-{% include navigation.html%}
-
 
 # [New-repo](https://github.com/parkjessie/New-repo)
 ### [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
@@ -7,6 +5,8 @@
 To display multiple python functions and build algorithm based on personal interests
 
 ### Contributors
+
+{% include navigation.html%}
 
 |Contributor|Github ID/Profile|Assigned Tasks|Commits|Pair Journal|
 |------|---------------------------|-----|--------|-----------------------------------|
