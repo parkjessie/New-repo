@@ -1,3 +1,4 @@
+# {% include navigation.html %}
 # [New-repo](https://github.com/parkjessie/New-repo)
 ### [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
 ### Project Purpose
@@ -14,10 +15,6 @@ To display multiple python functions and build algorithm based on personal inter
 #### Created python menu options which include animation submenu, matrix, and swap
 #### Submenu includes the boat animation and a person animation
 #### Connecting code to replit and successfully running it on the webstie
-
-
-
-
 
 
 ### Idea
