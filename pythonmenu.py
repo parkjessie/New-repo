@@ -1,13 +1,8 @@
-import boat
-import keypad
-import matrix
-import swap
-import tree
-
 
 main_menu = [
     ["matrix", "matrix.py"],
     ["swap", "swap.py"],
+    ["Fibonacci Sequence", "replit/fibonacci.py"]
 ]
 
 # Submenu list of [Prompt, Action]
