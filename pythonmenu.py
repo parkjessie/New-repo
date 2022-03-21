@@ -1,8 +1,9 @@
 
 main_menu = [
-    ["matrix", "matrix.py"],
-    ["swap", "swap.py"],
-    ["Fibonacci Sequence", "replit/fibonacci.py"]
+    ["matrix", "replit/matrix.py"],
+    ["swap", "replit/swap.py"],
+    ["Fibonacci Sequence", "replit/fibonacci.py"],
+    ["Country List", "replit/dbhack.py"]
 ]
 
 # Submenu list of [Prompt, Action]
