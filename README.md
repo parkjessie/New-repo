@@ -1,6 +1,7 @@
 
 # [New-repo](https://github.com/parkjessie/New-repo)
 ## [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
+## [CB Notes](https://github.com/parkjessie/New-repo/blob/main/CBnotes)
 ## Project Purpose
 To display multiple python functions and build algorithm based on personal interests
 ## Week 0 (03/07/22 - 03/11/22)
