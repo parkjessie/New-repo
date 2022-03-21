@@ -2,9 +2,7 @@
 # [New-repo](https://github.com/parkjessie/New-repo)
 {% include navigation.html%}
 
- |Contributor|Github ID/Profile|Assigned Tasks|Commits|Pair Journal|
- |------|---------------------------|-----|--------|-----------------------------------|
- |Jessie|[parkjessie](https://github.com/parkjessie)|[Tasks]()|[Commits]()|[Jessie Journal]()|
+ 
 ## [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
 ## [CB Notes](https://github.com/parkjessie/New-repo/blob/main/CBnotes)
 ## Project Purpose
