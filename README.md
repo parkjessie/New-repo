@@ -19,3 +19,4 @@ To display multiple python functions and build algorithm based on personal inter
  * [InfoDB Lists and Loops](https://github.com/parkjessie/New-repo/blob/main/replit/dbhack.py)
 #### Fibonacci sequence function runs successfully
 #### Country Lists and Loops are added into menu
+## Week 2 (03/21/22 - 03/25/22)
