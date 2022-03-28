@@ -1,6 +1,10 @@
 
 # [New-repo](https://github.com/parkjessie/New-repo)
+{% include navigation.html%}
+
+ 
 ## [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
+## [CB Notes](https://github.com/parkjessie/New-repo/blob/main/CBnotes)
 ## Project Purpose
 To display multiple python functions and build algorithm based on personal interests
 ## Week 0 (03/07/22 - 03/11/22)
@@ -15,3 +19,4 @@ To display multiple python functions and build algorithm based on personal inter
  * [InfoDB Lists and Loops](https://github.com/parkjessie/New-repo/blob/main/replit/dbhack.py)
 #### Fibonacci sequence function runs successfully
 #### Country Lists and Loops are added into menu
+## Week 2 (03/21/22 - 03/25/22)

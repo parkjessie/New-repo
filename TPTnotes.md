@@ -1,3 +1,34 @@
+# Week 2
+## TPT 5.5 Legal and Ethic Concerns 
+* **IP (Intellectual Property)**: a work on invention that is the result of creaticity to which one has rights
+  * Eveything that we create can be IP; inventions, literary works, designs, images, etc.
+* **Copyright**: protects your IP and keeps anyone from using it, unless you give them your permission
+  > * **Plagiarism**: presenting material as your own
+* **Creative Commons**: provides free liicenses that you can use to tell others how you want them to use your creations
+  * Clearly tells others what they can and can't do with your IP
+* **Open Source**: programs made freely availabe for anyone to use and may be redistributed and modified
+  * Encourages open collaboration; make modifications and redistribute
+* **Open Access**: online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions
+* **Digital Divide**: unequal distribution of access to technology
+
+### When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+GitHub offers many licenses when you create a GitHub repository. Some examples include: Academic Free License, Apache License, Creative Commons License Family, MIT License, etc. All of these licenses have to do with computing and all fall under the topic of Legal and Ethical Concerns.
+
+### Make a license for your personal and Team project. Document license you picked and why.
+For both personal and Team project, I chose GNU license because it is the most reliable license and allows for most people to use it freely
+
+## TPT 5.6 Safe Computing
+* **PII (Personal Identifiable Information)**: any information that can be used to trace anyone's identity
+  > * It can be used to cnhance a user's online experience
+  > * It can be exploited if privacy and other protections are igonored
+* Google, Facebook, and Twitter gather more information about behavior with their share, retweet, and like buttons they have embedded on the site
+* **Authentication**: measures protect devices and information from unauthorized access
+  > **Strong Passwords should contain**: 
+     > * 10 ore more characters
+     > * Must contain a symbol
+
+
+
 # Week 1
 ## TPT 5.3 Computing Bias 
  * Computers sometimes can have bias in their funcion or algorithm
