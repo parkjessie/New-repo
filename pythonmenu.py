@@ -1,16 +1,17 @@
+from replit import dbhack
 
 main_menu = [
     ["matrix", "replit/matrix.py"],
     ["swap", "replit/swap.py"],
     ["Fibonacci Sequence", "replit/fibonacci.py"],
-    ["Country List", "replit/dbhack.py"]
+    ["Loop", "replit/dbhack.py"]
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 animationsub_menu = [
-    ["Boat animation", "boat.py"],
-    ["Person animation", "tree.py"]
+    ["Boat animation", "replit/boat.py"],
+    ["Person animation", "replit/tree.py"]
 ]
 
 border = "=" * 25
