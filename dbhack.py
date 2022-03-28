@@ -1,9 +1,10 @@
 import dbhack
+
 main_menu = [
     ["matrix", "replit/matrix.py"],
     ["swap", "replit/swap.py"],
     ["Fibonacci Sequence", "replit/fibonacci.py"],
-    ["Loop", "dbhack.py"]
+    ["Loop", "replit/dbhack.py"]
 ]
 
 # Submenu list of [Prompt, Action]
