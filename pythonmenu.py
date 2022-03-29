@@ -1,16 +1,23 @@
 import dbhack
+from lcm import *
+
 main_menu = [
-    ["matrix", "replit/matrix.py"],
-    ["swap", "replit/swap.py"],
-    ["Fibonacci Sequence", "replit/fibonacci.py"],
     ["Loop", "dbhack.py"]
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 animationsub_menu = [
-    ["Boat animation", "replit/boat.py"],
-    ["Person animation", "replit/tree.py"]
+    ["Boat animation", "rep/week0/boat.py"],
+    ["Person animation", "rep/week0/tree.py"]
+]
+
+mathsub_menu = [
+    ["Fibonacci", "rep/week1/fibonacci.py"],
+    ["matrix", "rep/week0/matrix.py"],
+    ["swap", "rep/week0/swap.py"],
+    ["Least Common Multiple", "lcm.py"],
+    ["Factorial", "rep/week2/factorial.py"]
 ]
 
 border = "=" * 25
@@ -54,7 +61,12 @@ def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Animations", animationsubmenu])
+    menu_list.append(["Math", mathsubmenu])
     buildMenu(title, menu_list)
+
+def mathsubmenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, mathsub_menu)
 
 
 if __name__ == "__main__":
