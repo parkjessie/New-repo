@@ -17,6 +17,7 @@
 #### Fibonacci sequence function runs successfully
 #### Country Lists and Loops are added into menu
 ## Week 2 (03/21/22 - 03/25/22)
+### **[Review Ticket](https://github.com/parkjessie/New-repo/issues/4)
  * [Factorial](https://github.com/parkjessie/New-repo/blob/main/rep/week2/factorial.py)
  * [Least Common Multiple](https://github.com/parkjessie/New-repo/blob/main/lcm.py)
 #### Two math functions factorial and least common multiple successfully runs
