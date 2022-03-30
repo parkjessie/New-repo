@@ -17,7 +17,8 @@ mathsub_menu = [
     ["matrix", "rep/week0/matrix.py"],
     ["swap", "rep/week0/swap.py"],
     ["Least Common Multiple", "lcm.py"],
-    ["Factorial", "rep/week2/factorial.py"]
+    ["Factorial", "rep/week2/factorial.py"],
+    ["Palindrome", "palindrome.py"]
 ]
 
 border = "=" * 25
