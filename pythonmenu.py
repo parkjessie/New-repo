@@ -9,7 +9,8 @@ main_menu = [
 # Works similarly to main_menu
 animationsub_menu = [
     ["Boat animation", "rep/week0/boat.py"],
-    ["Person animation", "rep/week0/tree.py"]
+    ["Person animation", "rep/week0/tree.py"],
+    ["Pyramid animation", "rep/week0/pyramid.py"]
 ]
 
 mathsub_menu = [
