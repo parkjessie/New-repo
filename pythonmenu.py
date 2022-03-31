@@ -1,5 +1,6 @@
 import dbhack
 from lcm import *
+from rep.week1 import uber
 
 main_menu = [
     ["Loop", "dbhack.py"]
@@ -10,7 +11,9 @@ main_menu = [
 animationsub_menu = [
     ["Boat animation", "rep/week0/boat.py"],
     ["Person animation", "rep/week0/tree.py"],
-    ["Pyramid animation", "rep/week0/pyramid.py"]
+    ["Pyramid animation","rep/week0/pyramid.py"],
+    ["Number pattern", "rep/week0/npattern.py"]
+   
 ]
 
 mathsub_menu = [
@@ -19,7 +22,9 @@ mathsub_menu = [
     ["swap", "rep/week0/swap.py"],
     ["Least Common Multiple", "lcm.py"],
     ["Factorial", "rep/week2/factorial.py"],
-    ["Palindrome", "palindrome.py"]
+    ["Find factors", "rep/week0/factors.py"],
+    ["Uber", uber.driver]
+    
 ]
 
 border = "=" * 25
