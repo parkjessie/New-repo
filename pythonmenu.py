@@ -1,7 +1,7 @@
 import dbhack
 from lcm import *
 from rep.week1 import uber
-
+from rep.week2 import palindrome
 main_menu = [
     ["Loop", "dbhack.py"]
 ]
@@ -23,7 +23,8 @@ mathsub_menu = [
     ["Least Common Multiple", "lcm.py"],
     ["Factorial", "rep/week2/factorial.py"],
     ["Find factors", "rep/week0/factors.py"],
-    ["Uber", uber.driver]
+    ["Uber", uber.driver],
+    ["palindrome", palindrome.palinprint]
     
 ]
 
