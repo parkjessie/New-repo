@@ -24,6 +24,7 @@ mathsub_menu = [
     ["Factorial", "rep/week2/factorial.py"],
     ["Find factors", "rep/week0/factors.py"],
     ["Uber", uber.driver],
+    ["Dogs", "rep/week1/dog.py"],
     ["palindrome", palindrome.palinprint]
     
 ]
