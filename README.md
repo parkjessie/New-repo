@@ -21,3 +21,11 @@
  * [Factorial](https://github.com/parkjessie/New-repo/blob/main/rep/week2/factorial.py)
  * [Least Common Multiple](https://github.com/parkjessie/New-repo/blob/main/lcm.py)
 #### Two math functions factorial and least common multiple successfully runs
+
+## Peer edits (03/28/22 - 03/30/22)
+
+* [palindrome extra credit](https://replit.com/@AryanShah40/New-repo#rep/week2/palindrome.py)
+* [OOP Uber program](https://replit.com/@AryanShah40/New-repo#rep/week1/uber.py)
+* [OOP dogs program](https://replit.com/@AryanShah40/New-repo#rep/week1/dog.py)
+* [Pyramid * program](https://replit.com/@AryanShah40/New-repo#rep/week0/pattern.py)
+* [Numberpattern program](https://replit.com/@AryanShah40/New-repo#rep/week0/npattern.py)
