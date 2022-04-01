@@ -1,3 +1,6 @@
+#pulls navbar and helps navigation
+{% include nav.html %}
+
 # Create Task Outline
 ## Stress Level Quiz Feature
 - Program Purpose: Create a page to indicate stress levels based on the user’s inputs for questions related to stress evaluations.
