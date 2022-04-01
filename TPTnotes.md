@@ -50,7 +50,7 @@ The owner of the computer does not think that this was intentional because he re
  * Crowdsourcing provides the ability to obtain shared information, share information, and participate in distributed computing
  * More crowdsourcing, the more you reduce Computer Bias
  > * Wikipedia has a ton of information from crowdsourcing; can have inaccurate informations, but corrected through a self-policing community
- > * Crypto currency; all exchanges of money are valicated at least 3 times by independent miners
+ > * Crypto currency; all exchanges of money are valicated at least 3 times by independent miners this also reduces any bias that may be caused by a middle man, for example a bank which could inflict corruption
  > * RapidAPI; many programmers perform their tasks with tons of APIs created from other people
  > * GitHub; can create own repository, or fork and clone repositories from others; can also obtain profiles and history about the persons coding history
 ### CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
@@ -94,5 +94,6 @@ In some countries:
 - Only a small number of websites
 - The internet is used to protect and advocate the government
 - There is a high level of surveillance on the internet to protect the government
+- Propaganda and dictarorships with strict regimes can inhibhit acess to the internet, thus causing digital divide
 
 
