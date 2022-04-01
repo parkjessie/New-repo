@@ -1,5 +1,4 @@
-#pulls navbar and helps navigation
-{% include nav.html %}
+
 # Week 2
 ## TPT 5.5 Legal and Ethic Concerns 
 * **IP (Intellectual Property)**: a work on invention that is the result of creaticity to which one has rights

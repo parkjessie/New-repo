@@ -1,5 +1,5 @@
-#pulls navbar and helps navigation
-{% include nav.html %}
+
+
 
 # Create Task Outline
 ## Stress Level Quiz Feature
