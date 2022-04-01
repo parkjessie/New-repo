@@ -1,9 +1,6 @@
 
 # [New-repo](https://github.com/parkjessie/New-repo)
-
 {% include navigation.html%}
-
- 
 ## [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
 ## Week 0 (03/07/22 - 03/11/22)
 ### **[Review Ticket](https://github.com/parkjessie/New-repo/issues/1)**
