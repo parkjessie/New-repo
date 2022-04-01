@@ -1,6 +1,6 @@
 
 # [New-repo](https://github.com/parkjessie/New-repo)
-{% include navigation.html%}
+
 
  
 ## [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
