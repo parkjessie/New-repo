@@ -34,24 +34,3 @@ const restartButton = document.querySelector(‘.restart’);
 const result = document.querySelector(‘.result’);
 
 
-| Title | Code |
-| --- | ----------- |
-| ## Code Snippet
-### Code Snippet #1 | //Function to reset and restart the quiz;
-function restartQuiz(e) {
-if(e.target.matches(‘button’)) {
-//reset array index and score
-currentQuestion = 0;
-score = [];
-//Reload quiz to the start
-location.reload();
-} |
-| ### Code Snippet #2 | const container = document.querySelector(‘.quiz-container’);
-const questionEl = document.querySelector(‘.question’);
-const option1 = document.querySelector(‘.option1’);
-const option2 = document.querySelector(‘.option2’);
-const option3 = document.querySelector(‘.option3’);
-const nextButton = document.querySelector(‘.next’);
-const previousButton = document.querySelector(‘.previous’);
-const restartButton = document.querySelector(‘.restart’);
-const result = document.querySelector(‘.result’);|
