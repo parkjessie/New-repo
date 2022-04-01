@@ -22,7 +22,7 @@
  * [Least Common Multiple](https://github.com/parkjessie/New-repo/blob/main/lcm.py)
 #### Two math functions factorial and least common multiple successfully runs
 
-## Peer edits (03/28/22 - 03/30/22)
+## Peer edits-Aryan Shah (03/28/22 - 03/30/22)
 
 * [palindrome extra credit](https://replit.com/@AryanShah40/New-repo#rep/week2/palindrome.py)
 * [OOP Uber program](https://replit.com/@AryanShah40/New-repo#rep/week1/uber.py)
