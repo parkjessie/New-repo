@@ -2,28 +2,37 @@
 # [New-repo](https://github.com/parkjessie/New-repo)
 {% include navigation.html%}
 ## [Scrum Board](https://github.com/parkjessie/New-repo/projects/1)
-## Week 0 (03/07/22 - 03/11/22)
-### **[Review Ticket](https://github.com/parkjessie/New-repo/issues/1)**
- * [Menu](https://replit.com/@LittleRed/New-repo#pythonmenu.py)
- * [Tree](https://replit.com/@LittleRed/New-repo#tree.py)
-#### Submenu includes the boat animation and a person animation
-#### Connecting code to replit and successfully running it on the website
-## Week 1 (03/14/22 - 03/18/22)
-### **[Review Ticket](https://github.com/parkjessie/New-repo/issues/2)**
- * [Fibonacci](https://github.com/parkjessie/New-repo/blob/main/replit/fibonacci.py)
- * [InfoDB Lists and Loops](https://github.com/parkjessie/New-repo/blob/main/replit/dbhack.py)
-#### Fibonacci sequence function runs successfully
-#### Country Lists and Loops are added into menu
-## Week 2 (03/21/22 - 03/25/22)
-### **[Review Ticket](https://github.com/parkjessie/New-repo/issues/4)
- * [Factorial](https://github.com/parkjessie/New-repo/blob/main/rep/week2/factorial.py)
- * [Least Common Multiple](https://github.com/parkjessie/New-repo/blob/main/lcm.py)
-#### Two math functions factorial and least common multiple successfully runs
-
-## Peer edits-Aryan Shah (03/28/22 - 03/30/22)
-
-* [palindrome extra credit](https://replit.com/@AryanShah40/New-repo#rep/week2/palindrome.py)
-* [OOP Uber program](https://replit.com/@AryanShah40/New-repo#rep/week1/uber.py)
-* [OOP dogs program](https://replit.com/@AryanShah40/New-repo#rep/week1/dog.py)
-* [Pyramid * program](https://replit.com/@AryanShah40/New-repo#rep/week0/pattern.py)
-* [Numberpattern program](https://replit.com/@AryanShah40/New-repo#rep/week0/npattern.py)
+<table>
+  <tr>
+    <th>Replit</th>
+    <td colspan="4"><a style="text-align: center; vertical-align: middle" href="https://replit.com/@LittleRed/New-repo-1>Link</a></td>
+  </tr>
+  <tr>
+    <th>Week 0 (03/07/22 - 03/11/22)</th>
+    <td><a href="https://github.com/parkjessie/New-repo/issues/1">Review Ticket</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/pythonmenu.py">Menu</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/pythonmenu.py">Submenu</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/rep/week0/boat.py">Boat</a></td>
+  </tr>
+  <tr>
+    <th>Week 1 (03/14/22 - 03/18/22)</th>
+    <td><a href="https://github.com/parkjessie/New-repo/issues/2">Review Ticket</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/dbhack.py">InfoDB</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/rep/week1/fibonacci.py">Fibonacci</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Week 2 (03/21/22 - 03/25/22)</th>
+    <td><a href="https://github.com/parkjessie/New-repo/issues/4">Review Ticket</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/rep/week0/factorial.py">Factorial</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/blob/main/lcm.py">LCM</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Week 3 (03/28/22 - 04/01/22)</th>
+    <td><a href="">TBD</a></td>
+    <td><a href="https://github.com/parkjessie/New-repo/commit/434149054bdf0745ab26678573c369b7195e974a">Crossover Commits     (GH page)</a></td>
+    <td><a href="https://replit.com/@LittleRed/New-repo#rep/week0/pyramid.py">Crossover Commits (Pyramid (replit)</a></td>
+    <td></td>
+  </tr>
+</table>
