@@ -13,6 +13,7 @@
 - Sequencing: Sequencing will be primarily be shown in the JavaScript code.
 ## Code Snippet
 ### Code Snippet #1
+```
 //Function to reset and restart the quiz;
 function restartQuiz(e) {
 if(e.target.matches(‘button’)) {
@@ -22,7 +23,9 @@ score = [];
 //Reload quiz to the start
 location.reload();
 }
+```
 ### Code Snippet #2
+```
 const container = document.querySelector(‘.quiz-container’);
 const questionEl = document.querySelector(‘.question’);
 const option1 = document.querySelector(‘.option1’);
@@ -32,5 +35,5 @@ const nextButton = document.querySelector(‘.next’);
 const previousButton = document.querySelector(‘.previous’);
 const restartButton = document.querySelector(‘.restart’);
 const result = document.querySelector(‘.result’);
-
+```
 
