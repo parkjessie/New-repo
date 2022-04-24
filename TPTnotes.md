@@ -1,3 +1,104 @@
+# CRD-1: University Faculty Lecture by Jennifer Rosato
+## Collaboration means working together: 
+* Two or more people
+* Same goal or purpose
+## We collaborate to develop skills to:
+* Develop future future careers
+* Create better computing innovations
+* Avoid bias in computing innovations
+* And more!
+## Bias in Computing
+* “Racist Algorithms Are Especially Dangerous for Teens”
+* “Can We Make Our Robots Less Biased Than We Are?”
+* “Uber and Lyft Pricing Algorithms Charge More in Non-White Areas”
+* “California City Bans Predictive Policing in U.S. First”
+* “Training AI Algorithms on Mostly Smiling Faces Reduces Accuracy and Introduces Bias”
+## Users, Developers, and Clients collaborates on computing together
+* Developers include leads, designers, analysts, programmers, and testers
+
+## Key to having diverse perspectives
+### Users
+* Have you identified your target audiences?
+* How will you gather input from a representative sample?
+### Developers 
+* What skill & expertise do team members have?
+* What background & experiences do they have?
+* What perspectives can they bring?
+
+## When do you collaborate?
+### Design and development process:
+* Investigating and reflecting
+* Designing
+* Prototyping
+* Testing
+## Ways to collaborate during design and development:
+### Investigating & Reflecting
+* Surveys
+* User testing
+* Interviews
+* Observations
+### Designing
+* Brainstorming
+* Storyboarding
+* Decomposing
+* Diagramming
+### Prototyping
+* Design
+* Programming
+* Documenting
+### Testing
+* Test cases
+* User testing
+* Observing
+## In order to collaborate well, you need to:
+* Have good communication (speaking/writing + listening)
+* Have organization and structures
+* Be open minded and have adaptability
+* Develop trust, respect, and psychological safety
+* Resolve conflicts
+
+## To resolve conflicts, we need to:
+* Practice active listening
+* Provide constructive criticism
+* And compromise
+
+# IOC-1: University Faculty Lecture by Owen Astrachan
+## Computing and Computer Science
+### Computing and Computer Science are changing our world
+* This is true in every country, in every state, everywhere
+### Change is accelerating: computing is faster, cheaper, bigger
+* More due to cloud computing than parallel/distributed
+### I will take a view centered in the United States
+* 96% of AP exams administered in US, growing outside US
+## Access to Computing and More
+* Who has a computer?
+* Who has access to the internet?
+* Who is affected by computing
+## Computer science is the study of automating algorithmic processes that scale
+* Is not limited to programming
+* Not limited to science, technology, engineering, math
+## Smartphones and the Internet
+* Roughly 276 million smartphone users in the United States
+* Roughly 332 million people in the United States
+* Roughly 60 million under 15
+## What is poverty in the US?
+* 12 million children, 16% of children live in poverty
+* Different by region, race, ethnicity, and more
+* In a family of four with two children, roughly $26,500/year
+* % is growing due to Covid-19, had been improving
+## Price/access of Internet
+* In North America, $61/month average
+* Atlanta $105, mLos Angeles $49, Washington DC, $71
+* Roughly 75% of adults have broadband access at home
+* Differs by age-range, fewer over 65 than 25
+## How important is the Internet?
+### Covid-19 exposes why access to the internet is a human right
+* Covid-19 has exposed the underlying reality that not everyone has the internet at home.
+## Beneficial and Harmful Effects of Innovation
+### Benefit
+* Delta expands optional facial recognition boarding to new airports, more customers
+### Harmful
+* Google has suspended its controversial ‘field research’ that allegedly scanned homeless people
 
 # Week 2
 ## TPT 5.5 Legal and Ethic Concerns 
