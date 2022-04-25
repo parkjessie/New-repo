@@ -1,5 +1,6 @@
 # Week 5 Code
 <img width="1792" alt="Screen Shot 2022-04-24 at 10 22 35 PM" src="https://user-images.githubusercontent.com/89220424/165025567-eb3160bd-74c6-45d5-9986-9680afa2ed07.png">
+* Throughout this week, our team was faced with a problem of not being able to acquire information on actual student's information from our school, as well as being in risk of going through a lot of red tape when constructing a school website. Because of this, we decided to create a login system that does not actually need accurate student info from DNHS, but more as a practice example template that we could use in the future. To get one step closer to our goal of making the admissions office's job easier to access information on students who were in close proximity to students who were diagnosed with Covid-19, we not only formatted a basic login page but also a page that includes questions that includes questions for reasons of absences and other basic questions that ask for name, address, zip code, and who were in close proximity throughout school day before diagnosis of Covid-19 if that was the reason for absence. Although our website still needs a lot of implementation for it to function like our wireframe website, this was a good start for our website.
 
 # Create Task Outline
 ## Stress Level Quiz Feature
