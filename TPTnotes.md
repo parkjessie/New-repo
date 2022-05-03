@@ -1,3 +1,6 @@
+# Finals Quiz 3 MCQ Results
+<img width="1792" alt="Screen Shot 2022-05-03 at 10.42.04 AM" src="https://user-images.githubusercontent.com/89220424/165025567-eb3160bd-74c6-45d5-9986-9680afa2ed07.png">
+
 # CRD-1: University Faculty Lecture by Jennifer Rosato
 ## Collaboration means working together: 
 * Two or more people
