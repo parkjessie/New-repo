@@ -1,5 +1,13 @@
 # Finals Quiz 3 MCQ Results (40/50)
 
+# Study Plan
+Week April 18-22:
+2 AP videos reviewing and notes
+Week April 25-29:
+Go over with teammate (review notes and discuss the ideas)
+watch the remaining daily videos
+Week May 2-6:
+Take the quiz 3 final and review
 # CRD-1: University Faculty Lecture by Jennifer Rosato
 ## Collaboration means working together: 
 * Two or more people
