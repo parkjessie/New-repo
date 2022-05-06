@@ -1,4 +1,6 @@
-
+# Week 7 Code (05/02~05/06)
+<img width="1792" alt="Screen Shot 2022-05-06 at 9 37 17 AM" src="https://user-images.githubusercontent.com/89220424/167175621-6cfd3e44-227c-4458-af84-bb4b12edf451.png">
+* During this week, I decided to add a feature that was originally in our wireframe, which is the weekly planner. I will later add features where you can add checkmarks to each tasks. 
 
 # Week 5 to 6 Code (04/18~04/22)
 <img width="1792" alt="Screen Shot 2022-04-24 at 10 22 35 PM" src="https://user-images.githubusercontent.com/89220424/165025567-eb3160bd-74c6-45d5-9986-9680afa2ed07.png">
